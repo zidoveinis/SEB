@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SEB_Darbas.iml" filepath="$PROJECT_DIR$/.idea/modules/SEB_Darbas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SEB_Darbas_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SEB_Darbas_main.iml" group="SEB_Darbas" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SEB_Darbas_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SEB_Darbas_test.iml" group="SEB_Darbas" />
+    </modules>
+  </component>
+</project>
